@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058883566338",
+    "project_id": "appfina-37036",
+    "storage_bucket": "appfina-37036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058883566338:android:c787625e48727f9c54201b",
+        "android_client_info": {
+          "package_name": "com.example.appf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhDeeAKhgaotsYqPVo5a40DW61Srd4ZSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
